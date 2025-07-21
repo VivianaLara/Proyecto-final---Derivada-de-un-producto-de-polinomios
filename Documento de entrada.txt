@@ -1,0 +1,21 @@
+Objetivo del proyecto:
+El presente proyecto cumple con la funcionalidad de ejecutar el 
+cálculo de la derivada del producto entre dos polinomios ingresados 
+en sintaxis Latex, visto desde el punto de vista de la reescritura 
+secuencial y lógica, con el objetivo de facilitar el entendimiento 
+del proceso desarrollado y su aplicación algorítmica.
+
+Prueba del proyecto:
+Pruebe el programa haciendo uso de las siguientes entradas
+
+Entrada 1:
+(3x^3-5x^2+3x+2)(2x^3+4x^2-5x-1)
+
+Resultado esperado:
+36x^5 + 10x^4 - 116x^3 + 114x^2 - 4x - 13 
+
+Entrada 2:
+(2x^2 + 3x + 1)(x - 4)
+
+Resultado esperado:
+6x^2 - 10x - 11 
