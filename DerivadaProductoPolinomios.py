@@ -1,3 +1,8 @@
+'''Estudiantes: 
+Deisy Viviana Lara Sisa
+Julian David Nieto Rodriguez
+Andres Giovanni Sastoque Gonzalez '''
+
 def extraer_polinomios_latex(expr):
     """ Extrae dos polinomios escritos como (polinomio1)(polinomio2) en LaTeX.
         Asume que los polinomios están entre paréntesis y no hay anidamientos.
